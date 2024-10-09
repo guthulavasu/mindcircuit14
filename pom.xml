@@ -22,7 +22,7 @@
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://ec2-52-205-252-44.compute-1.amazonaws.com:8081/repository/b14-snapshot-repo/</url>
+		    <url>http://ec2-52-205-252-44.compute-1.amazonaws.com:8081/repository/batch-14-repo/</url>
 		</repository>
   	</distributionManagement>
 
