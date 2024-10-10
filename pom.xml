@@ -5,7 +5,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>mindcircuitbatch14</artifactId>
-    <version>8.14.3</version>
+    <version>8.2.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
 	<properties>
@@ -17,12 +17,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
-		    <url>http://ec2-52-205-252-44.compute-1.amazonaws.com:8081/repository/b14-snapshot-repo//</url>
+		    <url>http://ec2-34-205-157-33.compute-1.amazonaws.com:8081/repository/snapshot//</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://ec2-52-205-252-44.compute-1.amazonaws.com:8081/repository/batch-14-repo/</url>
+		    <url>http://ec2-34-205-157-33.compute-1.amazonaws.com:8081/repository/productionrelese/</url>
 		</repository>
   	</distributionManagement>
 
