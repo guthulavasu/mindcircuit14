@@ -1,6 +1,6 @@
 [
   {
-    "Target": "vasuguthula/b14:4 (ubuntu 24.04)",
+    "Target": "guthulavasuu/git_repo:15 (ubuntu 24.04)",
     "Type": "ubuntu"
   },
   {
@@ -40,7 +40,7 @@
     "Type": "jar"
   },
   {
-    "Target": "usr/local/tomcat/lib/ecj-4.33.jar",
+    "Target": "usr/local/tomcat/lib/ecj-4.38.jar",
     "Type": "jar"
   },
   {
@@ -48,7 +48,7 @@
     "Type": "jar"
   },
   {
-    "Target": "usr/local/tomcat/lib/jakartaee-migration-1.0.8-shaded.jar",
+    "Target": "usr/local/tomcat/lib/jakartaee-migration-1.0.10-shaded.jar",
     "Type": "jar"
   },
   {
