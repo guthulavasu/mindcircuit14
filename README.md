@@ -1,1 +1,1 @@
-# mindcircuit13 - SAMPLE APP application
+# mindcircuit13 - SAMPLE APP 
