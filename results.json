@@ -1,6 +1,6 @@
 [
   {
-    "Target": "guthulavasuu/git_repo:10 (ubuntu 24.04)",
+    "Target": "guthulavasuu/b14:18 (ubuntu 24.04)",
     "Type": "ubuntu"
   },
   {
@@ -40,7 +40,7 @@
     "Type": "jar"
   },
   {
-    "Target": "usr/local/tomcat/lib/ecj-4.38.jar",
+    "Target": "usr/local/tomcat/lib/ecj-4.39.jar",
     "Type": "jar"
   },
   {
